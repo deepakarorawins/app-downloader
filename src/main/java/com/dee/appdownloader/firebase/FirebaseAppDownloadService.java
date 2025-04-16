@@ -1,6 +1,5 @@
 package com.dee.appdownloader.firebase;
 
-import com.dee.appdownloader.client.FirebaseAuthenticator;
 import com.dee.appdownloader.core.IAppDownloadService;
 import org.json.JSONObject;
 

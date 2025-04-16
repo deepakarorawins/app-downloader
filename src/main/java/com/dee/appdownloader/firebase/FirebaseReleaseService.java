@@ -1,7 +1,7 @@
 package com.dee.appdownloader.firebase;
 
 
-import com.dee.appdownloader.client.FirebaseAuthenticator;
+
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.json.JSONArray;
