@@ -77,4 +77,4 @@ dependency-reduced-pom.xml
 google-cloud-*.json
 *.ipa
 *.apk
-**/firebase/
+**/client/
